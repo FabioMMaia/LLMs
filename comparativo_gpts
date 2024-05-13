@@ -94,3 +94,145 @@ ChatBot:
 
 O texto fornecido não menciona especificamente diretrizes para a representação gráfica dos relatórios de auditoria. Ele foca mais na metodologia, objetividade, clareza, e concisão do conteúdo textual dos relatórios, bem como nos procedimentos de supervisão e comunicação durante o processo de auditoria. Se precisar de informações sobre representação gráfica em relatórios de auditoria, talvez seja necessário consultar diretrizes específicas ou normas técnicas que abordem esse aspecto.
 
+Retriver strategy: similarity
+
+#########################
+      gpt-3.5-turbo
+#########################
+User:
+
+o que deve constar no relatorio final de auditoria?
+
+ChatBot:
+
+O relatório final de auditoria deve conter a descrição da ação de auditoria, seus objetivos, a metodologia adotada, as constatações encontradas e as recomendações emitidas. Além disso, deve apresentar os fatos de forma objetiva e imparcial, com linguagem clara e concisa. O relatório final também deve incluir o posicionamento da auditoria, os esclarecimentos prestados pela unidade auditada e possíveis soluções. Deve ser destinado principalmente à alta administração da unidade auditada, com comunicações adicionais para outras partes interessadas, como o Reitor, órgãos de controle interno e a sociedade. Também deve conter o Termo de Assunção de Riscos, indicando prazos para cumprimento de recomendações e assumir riscos decorrentes do não cumprimento.
+
+User:
+
+o que é assunção de risco?
+
+ChatBot:
+
+Com base no contexto fornecido, a "assunção de riscos" refere-se à avaliação e aceitação consciente dos riscos inerentes a determinadas atividades, processos ou decisões. Isso envolve reconhecer os possíveis impactos negativos que podem surgir e decidir se os benefícios potenciais superam os riscos envolvidos. Em um contexto de auditoria interna, a "assunção de riscos" pode se referir à análise e gestão dos riscos relacionados à governança, atividades operacionais e sistemas de informação de uma organização.
+
+User:
+
+quais são os tipos de papel de trabalho?
+
+ChatBot:
+
+Os tipos de papel de trabalho mencionados são:
+
+Solicitação de Auditoria (SA)
+Relatórios
+Programas de auditoria
+Questionários
+Memorandos
+Cópias de documentos
+Testes de conformidades
+Circularizações
+Checklists
+Documentos examinados que fundamentaram a opinião do auditor.
+User:
+
+como deve ser a apresentação gráfica?
+
+ChatBot:
+
+A apresentação gráfica dos tipos de papel de trabalho mencionados deve seguir as seguintes diretrizes:
+
+Formato do papel: A4
+Fonte do texto: Times New Roman, estilo normal, tamanho 12
+Fonte dos quadros e tabelas: Times New Roman, estilo normal, tamanho 10
+Citações: 10
+Notas de rodapé: 9
+Alinhamento: Justificado
+Espaçamento entre linhas: 1,5
+Espaçamento entre parágrafos: 1,0
+Nota de rodapé: 1,27cm
+Cabeçalho: 1,59 cm
+Margens: Superior - 4cm; esquerda - 3,5 cm; inferior - 1,5 cm; direita - 1,5 cm
+Citações diretas: Times New Roman, espaçamento simples, tamanho da fonte 10 e recuo do parágrafo 4 cm
+Essas são as orientações para a apresentação gráfica dos papéis de trabalho mencionados.
+
+#########################
+      gpt-4-turbo
+#########################
+
+User:
+
+o que deve constar no relatorio final de auditoria?
+
+ChatBot:
+
+O Relatório Final de Auditoria deve conter os seguintes elementos:
+
+Posicionamento da Auditoria: Deve incluir a análise e conclusões da equipe de auditoria sobre as informações e documentos apresentados pelo auditado.
+
+Esclarecimentos Prestados pela Unidade Auditada: Incluir as respostas e esclarecimentos fornecidos pela unidade auditada em relação às constatações preliminares.
+
+Possíveis Soluções: Apresentar as recomendações e medidas corretivas sugeridas para resolver as impropriedades identificadas durante a auditoria.
+
+Destinatários: O relatório deve ser direcionado principalmente à alta administração da unidade auditada, mas também pode ser comunicado a outras partes interessadas, como o Reitor e órgãos de controle interno, além da sociedade em geral.
+
+Termo de Assunção de Riscos: Deve acompanhar o relatório, indicando o prazo para que o gestor cumpra as recomendações e assuma os riscos decorrentes do não cumprimento.
+
+Análise da Auditoria Interna: Incluir uma seção que formalize a análise dos apontamentos da unidade auditada, que deve ser objetiva e alinhada com as constatações e discussões realizadas.
+
+Ressalva do Não Pronunciamento: Caso não haja manifestação formal da unidade auditada, o relatório deve incluir uma ressalva sobre a falta deste pronunciamento.
+
+Estes elementos garantem que o relatório final de auditoria seja completo, oferecendo uma visão clara das constatações, análises e recomendações, permitindo que as partes interessadas tomem as devidas providências.
+
+User:
+
+o que é assunção de risco?
+
+ChatBot:
+
+No contexto de um relatório de auditoria, a assunção de risco refere-se ao processo de identificação, avaliação e gestão dos riscos significativos que podem afetar a integridade e a confiabilidade das informações financeiras e operacionais de uma organização. A assunção de risco envolve determinar quais riscos são aceitáveis para a organização com base em seu apetite de risco e estabelecer medidas para mitigar ou controlar esses riscos de maneira eficaz. Isso é crucial para garantir que o relatório de auditoria forneça uma visão precisa e justa da posição financeira e operacional da organização, ajudando na tomada de decisões informadas por parte dos stakeholders.
+
+User:
+
+quais são os tipos de papel de trabalho?
+
+ChatBot:
+
+Os diferentes tipos de papéis de trabalho utilizados em auditoria, conforme mencionado no contexto fornecido, incluem:
+
+a) Solicitação de Auditoria (SA) - Utilizado para comunicar ao auditado a necessidade de esclarecimentos, documentos, dados e informações que subsidiem novos exames.
+
+Outros tipos de papéis de trabalho mencionados incluem:
+
+Programas de auditoria
+Respostas às solicitações de auditoria
+Questionários
+Memorandos
+Cópias de documentos
+Testes de conformidades
+Circularizações
+Relatórios elaborados
+Checklists
+Todo tipo de documento examinado que fundamentou a opinião do auditor
+Esses papéis de trabalho são essenciais para documentar o processo de auditoria, fornecer evidências e suportar as conclusões e recomendações do auditor.
+
+User:
+
+como deve ser a apresentação gráfica?
+
+ChatBot:
+
+A apresentação gráfica de um relatório de auditoria deve seguir as seguintes especificações:
+
+Formato do papel: A4
+Fonte do texto: Times New Roman, estilo normal, tamanho 12
+Fonte dos quadros e tabelas: Times New Roman, estilo normal, tamanho 10
+Citações: tamanho da fonte 10
+Notas de rodapé: tamanho da fonte 9
+Alinhamento: Justificado
+Espaçamento entre linhas: 1,5
+Espaçamento entre parágrafos: 1,0
+Nota de rodapé: 1,27cm
+Cabeçalho: 1,59 cm
+Margens: Superior - 4cm; Esquerda - 3,5 cm; Inferior - 1,5 cm; Direita - 1,5 cm
+Citações diretas: Times New Roman, espaçamento simples, tamanho da fonte 10 e recuo do parágrafo 4 cm.
+Essas diretrizes ajudam a garantir que o relatório seja apresentado de forma clara e profissional, facilitando a leitura e a compreensão do conteúdo.
